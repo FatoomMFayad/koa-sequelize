@@ -12,6 +12,9 @@
     "koa": "^2.13.1",
     "koa-parser": "^1.0.8",
     "koa-router": "^10.0.0",
-    "nodemon": "^2.0.7"
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.7",
+    "sequelize": "^6.4.0",
+    "sequelize-cli": "^6.2.0"
   }
 }
